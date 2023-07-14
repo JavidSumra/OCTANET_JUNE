@@ -89,3 +89,8 @@ ol {
   outline: none;
   border: none;
 }
+input[type="checkbox"]{
+  height: 20px;
+  width: 20px;
+  margin: 0 6px;
+}
